@@ -29,5 +29,9 @@ Place the inputs as described in `data/README.md`, or point to them with environ
 `scripts/common.py` holds the configuration, data loading, fold-internal preprocessing, curated biomarker lists,
 model settings, the fast DeLong implementation and the corrected resampled t-test.
 
+## Supporting tables
+The drug-cell line inclusion table (Table S21) and the features selected for each drug (Table S22) are provided with
+the article's Supplementary Materials and on figshare ([FIGSHARE DOI TO BE INSERTED]).
+
 ## Citation
 Please cite the article (details to be added on publication).
