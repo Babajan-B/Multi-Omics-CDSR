@@ -31,7 +31,7 @@ model settings, the fast DeLong implementation and the corrected resampled t-tes
 
 ## Supporting tables
 The drug-cell line inclusion table (Table S21) and the features selected for each drug (Table S22) are provided with
-the article's Supplementary Materials and on figshare ([FIGSHARE DOI TO BE INSERTED]).
+the article's Supplementary Materials.
 
 ## Citation
 Please cite the article (details to be added on publication).
