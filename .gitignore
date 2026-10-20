@@ -1,0 +1,8 @@
+# data are public but large; see data/README.md
+data/raw/
+data/processed/
+data/published_tables/*.csv
+results/
+__pycache__/
+*.pyc
+.DS_Store
